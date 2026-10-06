@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /verify
+Allow: /login
+Allow: /student-register
+Allow: /college-register
+Allow: /recruiter-register
+
+# Sitemaps
+Sitemap: https://career-bridge.vercel.app/sitemap.xml

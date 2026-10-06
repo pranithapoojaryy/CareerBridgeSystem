@@ -1,0 +1,471 @@
+﻿Analyzing frontend...                                           
+
+   info - Don't invoke 'print' in production code - lib\features\aptitude\data\aptitude_repository.dart:132:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\aptitude\data\aptitude_repository.dart:136:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\aptitude\data\aptitude_repository.dart:153:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\aptitude\data\aptitude_repository.dart:170:7 - avoid_print
+warning - Dead code - lib\features\aptitude\presentation\screens\aptitude_home_screen.dart:539:37 - dead_code
+warning - The left operand can't be null, so the right operand is never executed - lib\features\aptitude\presentation\screens\aptitude_home_screen.dart:539:40 - dead_null_aware_expression
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\aptitude\presentation\screens\aptitude_sections.dart:158:54 - deprecated_member_use
+warning - The operand can't be 'null', so the condition is always 'true' - lib\features\aptitude\presentation\screens\assignments_list_screen.dart:164:51 - unnecessary_null_comparison
+warning - The '!' will have no effect because the receiver can't be null - lib\features\aptitude\presentation\screens\assignments_list_screen.dart:169:50 - unnecessary_non_null_assertion
+warning - Dead code - lib\features\aptitude\presentation\screens\module_detail_screen.dart:81:44 - dead_code
+warning - The left operand can't be null, so the right operand is never executed - lib\features\aptitude\presentation\screens\module_detail_screen.dart:81:47 - dead_null_aware_expression
+   info - 'WillPopScope' is deprecated and shouldn't be used. Use PopScope instead. The Android predictive back feature will not work with WillPopScope. This feature was deprecated after v3.12.0-1.0.pre - lib\features\aptitude\presentation\screens\test_taking_screen.dart:169:12 - deprecated_member_use
+warning - Unused import: '../../../../core/theme/app_theme.dart' - lib\features\aptitude\presentation\utils\aptitude_utils.dart:3:8 - unused_import
+warning - Unused import: '../../data/aptitude_repository.dart' - lib\features\aptitude\presentation\utils\aptitude_utils.dart:5:8 - unused_import
+   info - Don't invoke 'print' in production code - lib\features\auth\data\auth_repository.dart:100:9 - avoid_print
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\auth\presentation\college_registration_screen.dart:300:33 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\auth\presentation\college_registration_screen.dart:415:31 - curly_braces_in_flow_control_structures
+   info - Don't invoke 'print' in production code - lib\features\auth\presentation\providers\landing_stats_provider.dart:20:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\presentation\providers\landing_stats_provider.dart:48:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\presentation\providers\landing_stats_provider.dart:66:9 - avoid_print
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\auth\presentation\recruiter_registration_screen.dart:517:15 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\auth\presentation\recruiter_registration_screen.dart:539:15 - deprecated_member_use
+   info - Don't invoke 'print' in production code - lib\features\auth\presentation\student_registration_screen.dart:135:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\auth\presentation\student_registration_screen.dart:137:7 - avoid_print
+   info - Statements in an if should be enclosed in a block - lib\features\auth\presentation\student_registration_screen.dart:788:19 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\auth\presentation\student_registration_screen.dart:802:19 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\auth\presentation\student_registration_screen.dart:804:19 - curly_braces_in_flow_control_structures
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\auth\presentation\student_registration_screen.dart:1224:11 - deprecated_member_use
+warning - Unused import: 'widgets/trust_shield_widget.dart' - lib\features\certificates\presentation\certificate_upload_screen.dart:3:8 - unused_import
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:11:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:14:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:22:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:26:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:40:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:59:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:61:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:65:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:76:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:81:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:102:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:108:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:122:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:134:13 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:145:13 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:158:13 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:181:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:185:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:210:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:215:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:225:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:230:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:295:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:318:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:335:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:382:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:438:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:442:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:478:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:498:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\analytics_repository.dart:501:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_providers.dart:18:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_providers.dart:21:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_providers.dart:26:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_providers.dart:127:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_providers.dart:133:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_repository.dart:123:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_repository.dart:279:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_repository.dart:313:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_repository.dart:383:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_repository.dart:395:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_repository.dart:398:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_repository.dart:418:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_repository.dart:482:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_repository.dart:485:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_repository.dart:644:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_repository.dart:712:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\data\college_repository.dart:818:7 - avoid_print
+warning - The value of the field '_supabase' isn't used - lib\features\college\data\student_repository.dart:4:24 - unused_field
+   info - Don't invoke 'print' in production code - lib\features\college\presentation\analytics\placement_analytics_screen.dart:136:7 - avoid_print
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\assessment_details_screen.dart:520:40 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\assessment_details_screen.dart:524:21 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\assessment_details_screen.dart:530:40 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\assessment_questions_screen.dart:258:29 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\assessment_questions_screen.dart:259:36 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\assessment_questions_screen.dart:267:17 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\assessment_questions_screen.dart:320:29 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\assessment_questions_screen.dart:321:36 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\assessment_questions_screen.dart:329:17 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\assessment_questions_screen.dart:361:40 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\assessment_questions_screen.dart:370:40 - use_build_context_synchronously
+   info - The private field _questions could be 'final' - lib\features\college\presentation\assessments\create_assessment_screen.dart:35:30 - prefer_final_fields
+   info - Don't invoke 'print' in production code - lib\features\college\presentation\assessments\create_assessment_screen.dart:79:7 - avoid_print
+warning - The operand can't be 'null', so the condition is always 'true' - lib\features\college\presentation\assessments\create_assessment_screen.dart:130:24 - unnecessary_null_comparison
+   info - Statements in an if should be enclosed in a block - lib\features\college\presentation\assessments\create_assessment_screen.dart:131:13 - curly_braces_in_flow_control_structures
+warning - The operand can't be 'null', so the condition is always 'true' - lib\features\college\presentation\assessments\create_assessment_screen.dart:132:26 - unnecessary_null_comparison
+   info - Statements in an if should be enclosed in a block - lib\features\college\presentation\assessments\create_assessment_screen.dart:133:13 - curly_braces_in_flow_control_structures
+   info - Don't invoke 'print' in production code - lib\features\college\presentation\assessments\create_assessment_screen.dart:142:7 - avoid_print
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\assessments\create_assessment_screen.dart:381:17 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\assessments\create_assessment_screen.dart:400:17 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\assessments\create_assessment_screen.dart:481:13 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\assessments\create_assessment_screen.dart:498:13 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\college\presentation\assessments\create_assessment_screen.dart:733:7 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\college\presentation\assessments\create_assessment_screen.dart:734:7 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\question_bank_screen.dart:283:56 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\question_bank_screen.dart:297:56 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\skill_assessments_screen.dart:384:40 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\assessments\skill_assessments_screen.dart:397:40 - use_build_context_synchronously
+   info - Don't invoke 'print' in production code - lib\features\college\presentation\assessments\widgets\create_assessment_dialog.dart:387:7 - avoid_print
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\college\presentation\dashboard\assessment_builder_screen.dart:262:17 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:376:23 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:398:23 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:442:23 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:530:19 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:531:19 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:750:15 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:759:15 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:765:15 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:779:15 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:806:11 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:812:11 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:818:11 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:824:11 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:833:11 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:837:11 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\college\presentation\dashboard\course_creation_wizard.dart:942:66 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\college\presentation\dashboard\course_creation_wizard.dart:1174:66 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\dashboard\course_creation_wizard.dart:1456:23 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\dashboard\create_course_screen.dart:128:17 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\dashboard\create_course_screen.dart:142:17 - deprecated_member_use
+warning - Unused import: '../../../student/data/learning_repository.dart' - lib\features\college\presentation\dashboard\enhanced_path_wizard.dart:5:8 - unused_import
+   info - The private field _skillsGained could be 'final' - lib\features\college\presentation\dashboard\enhanced_path_wizard.dart:34:16 - prefer_final_fields
+   info - The private field _tags could be 'final' - lib\features\college\presentation\dashboard\enhanced_path_wizard.dart:35:16 - prefer_final_fields
+   info - The private field _programmingLanguages could be 'final' - lib\features\college\presentation\dashboard\enhanced_path_wizard.dart:38:16 - prefer_final_fields
+   info - The private field _toolsFrameworks could be 'final' - lib\features\college\presentation\dashboard\enhanced_path_wizard.dart:39:16 - prefer_final_fields
+   info - The private field _industryExamples could be 'final' - lib\features\college\presentation\dashboard\enhanced_path_wizard.dart:50:16 - prefer_final_fields
+   info - The private field _sections could be 'final' - lib\features\college\presentation\dashboard\enhanced_path_wizard.dart:53:23 - prefer_final_fields
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\dashboard\enhanced_path_wizard.dart:656:11 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\college\presentation\dashboard\enhanced_path_wizard.dart:780:11 - deprecated_member_use
+warning - The value of the local variable 'totalLectures' isn't used - lib\features\college\presentation\dashboard\manage_learning_courses_screen.dart:230:11 - unused_local_variable
+warning - The value of the local variable 'totalLectures' isn't used - lib\features\college\presentation\dashboard\manage_learning_courses_screen.dart:624:11 - unused_local_variable
+warning - The value of the local variable 'durationHours' isn't used - lib\features\college\presentation\dashboard\manage_learning_courses_screen.dart:628:11 - unused_local_variable
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary - lib\features\college\presentation\dashboard\manage_learning_courses_screen.dart:682:40 - invalid_null_aware_operator
+warning - The '!' will have no effect because the receiver can't be null - lib\features\college\presentation\dashboard\manage_learning_courses_screen.dart:694:50 - unnecessary_non_null_assertion
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\college\presentation\dashboard\manage_learning_courses_screen.dart:701:68 - deprecated_member_use
+warning - The value of 'refresh' should be used - lib\features\college\presentation\dashboard\manage_learning_courses_screen.dart:837:11 - unused_result
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\dashboard\module_management_screen.dart:736:25 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\college\presentation\dashboard\module_management_screen.dart:899:25 - deprecated_member_use
+warning - The value of the field '_codeStub' isn't used - lib\features\college\presentation\dashboard\question_editor_screen.dart:32:11 - unused_field
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\college\presentation\dashboard\question_editor_screen.dart:370:11 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\college\presentation\dashboard\question_editor_screen.dart:371:11 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\college\presentation\dashboard\question_editor_screen.dart:378:11 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\college\presentation\dashboard\question_editor_screen.dart:379:11 - deprecated_member_use
+   info - The 'if' statement could be replaced by a null-aware assignment - lib\features\college\presentation\dashboard\widgets\feed_preview_widget.dart:179:7 - prefer_conditional_assignment
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\events\events_manager_screen.dart:334:36 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\events\events_manager_screen.dart:342:36 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\events\events_manager_screen.dart:391:36 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\events\events_manager_screen.dart:401:36 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\events\events_manager_screen.dart:430:40 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\events\events_manager_screen.dart:436:40 - use_build_context_synchronously
+   info - The 'if' statement could be replaced by a null-aware assignment - lib\features\college\presentation\feed\college_feed_screen.dart:394:7 - prefer_conditional_assignment
+   info - 'Share' is deprecated and shouldn't be used. Use SharePlus instead - lib\features\college\presentation\feed\college_feed_screen.dart:563:21 - deprecated_member_use
+   info - 'share' is deprecated and shouldn't be used. Use SharePlus.instance.share() instead - lib\features\college\presentation\feed\college_feed_screen.dart:563:27 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\college\presentation\feed\college_feed_screen.dart:1084:21 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\college\presentation\feed\college_feed_screen.dart:1089:21 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\college\presentation\feed\college_feed_screen.dart:1094:21 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\college\presentation\feed\college_feed_screen.dart:1099:21 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\college\presentation\jobs\tabs\analytics_tab.dart:557:21 - curly_braces_in_flow_control_structures
+   info - Parameter 'key' could be a super parameter - lib\features\college\presentation\learning\course_enrollments_screen.dart:12:9 - use_super_parameters
+   info - Don't invoke 'print' in production code - lib\features\college\presentation\placement\student_placement_tracking_screen.dart:163:15 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\presentation\placement\student_placement_tracking_screen.dart:175:7 - avoid_print
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\college\presentation\placement\student_placement_tracking_screen.dart:575:66 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\college\presentation\profile\college_public_profile_screen.dart:739:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\college\presentation\profile\college_public_profile_screen.dart:903:7 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\college\presentation\profile\college_public_profile_screen.dart:1048:68 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\college\presentation\profile\college_public_profile_screen.dart:1145:42 - deprecated_member_use
+   info - Don't invoke 'print' in production code - lib\features\college\presentation\profile\debug_logic.dart:35:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\presentation\profile\debug_logic.dart:54:5 - avoid_print
+   info - Unnecessary use of string interpolation - lib\features\college\presentation\resume_hub\resume_hub_screen.dart:367:31 - unnecessary_string_interpolations
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\settings\college_settings_screen.dart:144:42 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\settings\college_settings_screen.dart:151:23 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\features\college\presentation\settings\college_settings_screen.dart:246:7 - use_build_context_synchronously
+   info - 'value' is deprecated and shouldn't be used. Use component accessors like .r or .g, or toARGB32 for an explicit conversion - lib\features\college\presentation\settings\college_settings_screen.dart:254:28 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - lib\features\college\presentation\settings\college_settings_screen.dart:261:7 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\features\college\presentation\settings\college_settings_screen.dart:274:7 - use_build_context_synchronously
+   info - 'value' is deprecated and shouldn't be used. Use component accessors like .r or .g, or toARGB32 for an explicit conversion - lib\features\college\presentation\setup\college_setup_wizard.dart:84:40 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\college\presentation\setup\college_setup_wizard.dart:625:13 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\college\presentation\setup\college_setup_wizard.dart:627:13 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\college\presentation\setup\college_setup_wizard.dart:656:9 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\college\presentation\setup\college_setup_wizard.dart:712:21 - curly_braces_in_flow_control_structures
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\college\presentation\setup\college_setup_wizard.dart:713:23 - use_build_context_synchronously
+warning - Unused import: '../../../../../core/theme/app_theme.dart' - lib\features\college\presentation\students\student_management_debug.dart:5:8 - unused_import
+   info - Don't invoke 'print' in production code - lib\features\college\presentation\students\student_management_debug.dart:55:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\presentation\students\student_management_debug.dart:60:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\college\presentation\students\student_management_debug.dart:67:7 - avoid_print
+   info - The private field _sortAscending could be 'final' - lib\features\college\presentation\students\student_management_screen.dart:39:8 - prefer_final_fields
+   info - Statements in an if should be enclosed in a block - lib\features\dashboard\data\dashboard_repository.dart:32:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\dashboard\data\dashboard_repository.dart:34:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\dashboard\data\dashboard_repository.dart:37:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\dashboard\data\dashboard_repository.dart:40:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\dashboard\data\dashboard_repository.dart:63:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\dashboard\data\dashboard_repository.dart:65:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\interview\data\interview_repository.dart:278:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\interview\data\interview_repository.dart:280:7 - curly_braces_in_flow_control_structures
+warning - The value of the local variable 'gradedCount' isn't used - lib\features\interview\data\interview_repository.dart:335:11 - unused_local_variable
+   info - The private field _selectedQuestions could be 'final' - lib\features\interview\presentation\college\create_mock_screen.dart:23:27 - prefer_final_fields
+   info - Statements in an if should be enclosed in a block - lib\features\interview\presentation\college\create_mock_screen.dart:49:9 - curly_braces_in_flow_control_structures
+   info - The 'child' argument should be last in widget constructor invocations - lib\features\interview\presentation\college\create_mock_screen.dart:194:27 - sort_child_properties_last
+   info - The private field _tempSelected could be 'final' - lib\features\interview\presentation\college\create_mock_screen.dart:246:27 - prefer_final_fields
+   info - Statements in an if should be enclosed in a block - lib\features\interview\presentation\college\grade_mock_screen.dart:65:9 - curly_braces_in_flow_control_structures
+   info - Unnecessary braces in a string interpolation - lib\features\interview\presentation\college\manage_content_screen.dart:85:55 - unnecessary_brace_in_string_interps
+   info - Unnecessary braces in a string interpolation - lib\features\interview\presentation\college\manage_content_screen.dart:100:55 - unnecessary_brace_in_string_interps
+warning - The value of 'refresh' should be used - lib\features\interview\presentation\college\manage_mocks_screen.dart:293:23 - unused_result
+   info - Unnecessary use of 'toList' in a spread - lib\features\interview\presentation\college\manage_questions_screen.dart:180:40 - unnecessary_to_list_in_spreads
+warning - The operand can't be 'null', so the condition is always 'true' - lib\features\interview\presentation\college\manage_questions_screen.dart:459:40 - unnecessary_null_comparison
+warning - The '!' will have no effect because the receiver can't be null - lib\features\interview\presentation\college\manage_questions_screen.dart:460:39 - unnecessary_non_null_assertion
+warning - The '!' will have no effect because the receiver can't be null - lib\features\interview\presentation\college\manage_questions_screen.dart:464:49 - unnecessary_non_null_assertion
+warning - Unused import: 'package:flutter_riverpod/flutter_riverpod.dart' - lib\features\interview\presentation\college\widgets\add_question_sheet.dart:4:8 - unused_import
+warning - Unused import: '../domain/interview_models.dart' - lib\features\interview\presentation\interview_landing_screen.dart:4:8 - unused_import
+warning - Unused import: 'college/college_interview_dashboard.dart' - lib\features\interview\presentation\interview_landing_screen.dart:6:8 - unused_import
+warning - Unused import: 'package:syncfusion_flutter_pdfviewer/pdfviewer.dart' - lib\features\interview\presentation\learning_hub_screen.dart:12:8 - unused_import
+   info - Statements in an if should be enclosed in a block - lib\features\interview\presentation\learning_hub_screen.dart:80:13 - curly_braces_in_flow_control_structures
+warning - The value of the field '_pdfBytes' isn't used - lib\features\interview\presentation\learning_hub_screen.dart:617:14 - unused_field
+warning - The value of the local variable 'isTablet' isn't used - lib\features\interview\presentation\question_bank_screen.dart:322:11 - unused_local_variable
+warning - Unused import: 'dart:io' - lib\features\interview\presentation\student\active_mock_session_screen.dart:2:8 - unused_import
+warning - Unused import: '../../data/interview_repository.dart' - lib\features\interview\presentation\student\active_mock_session_screen.dart:12:8 - unused_import
+warning - The value of the field '_isRecording' isn't used - lib\features\interview\presentation\student\active_mock_session_screen.dart:44:8 - unused_field
+   info - Statements in an if should be enclosed in a block - lib\features\interview\presentation\student\active_mock_session_screen.dart:90:13 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\interview\presentation\student\active_mock_session_screen.dart:100:9 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\interview\presentation\student\active_mock_session_screen.dart:109:9 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\interview\presentation\student\active_mock_session_screen.dart:120:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\interview\presentation\student\active_mock_session_screen.dart:129:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\interview\presentation\student\active_mock_session_screen.dart:144:9 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\interview\presentation\student\active_mock_session_screen.dart:216:51 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\interview\presentation\student\active_mock_session_screen.dart:542:9 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\interview\presentation\student\active_mock_session_screen.dart:558:13 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\interview\presentation\student\active_mock_session_screen.dart:584:9 - curly_braces_in_flow_control_structures
+   info - Unnecessary use of string interpolation - lib\features\interview\presentation\student_dashboard_analytics.dart:576:31 - unnecessary_string_interpolations
+   info - Don't invoke 'print' in production code - lib\features\jobs\data\hiring_pipeline_repository.dart:316:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\jobs\data\hiring_pipeline_repository.dart:325:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\jobs\data\job_repository.dart:77:9 - avoid_print
+   info - The imported package 'syncfusion_flutter_pdf' isn't a dependency of the importing package - lib\features\jobs\domain\services\resume_matching_service.dart:6:8 - depend_on_referenced_packages
+warning - The value of the local variable 'isPendingReview' isn't used - lib\features\jobs\presentation\application_timeline_screen.dart:410:11 - unused_local_variable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\jobs\presentation\job_listing_screen.dart:997:68 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\jobs\presentation\job_posting_screen.dart:114:17 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\jobs\presentation\round_submission_screen.dart:220:21 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\jobs\presentation\round_submission_screen.dart:221:21 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\networking\presentation\screens\network_profile_view.dart:353:13 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\networking\presentation\screens\network_profile_view.dart:372:13 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\networking\presentation\screens\network_profile_view.dart:388:13 - curly_braces_in_flow_control_structures
+   info - Use a 'SizedBox' to add whitespace to a layout - lib\features\networking\presentation\screens\network_profile_view.dart:640:9 - sized_box_for_whitespace
+   info - Statements in an if should be enclosed in a block - lib\features\networking\presentation\screens\network_profile_view.dart:909:7 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\networking\presentation\screens\network_profile_view.dart:1670:64 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\networking\presentation\screens\network_profile_view.dart:2374:68 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - lib\features\networking\presentation\screens\network_screen.dart:154:11 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\features\networking\presentation\screens\network_screen.dart:159:11 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\features\networking\presentation\screens\network_screen.dart:165:9 - use_build_context_synchronously
+   info - Statements in an if should be enclosed in a block - lib\features\networking\presentation\screens\network_screen.dart:781:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\networking\presentation\screens\network_screen.dart:885:7 - curly_braces_in_flow_control_structures
+   info - Don't invoke 'print' in production code - lib\features\recruiter\data\recruiter_profile_repository.dart:38:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\recruiter\data\recruiter_profile_repository.dart:44:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\recruiter\data\recruiter_profile_repository.dart:60:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\recruiter\data\recruiter_profile_repository.dart:79:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\recruiter\data\recruiter_profile_repository.dart:104:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\recruiter\data\recruiter_profile_repository.dart:129:7 - avoid_print
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_profile_repository.dart:148:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_profile_repository.dart:152:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_profile_repository.dart:154:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_profile_repository.dart:156:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_profile_repository.dart:162:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_profile_repository.dart:164:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_repository.dart:20:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_repository.dart:32:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_repository.dart:48:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_repository.dart:64:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_repository.dart:102:13 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_repository.dart:115:15 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_repository.dart:168:13 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_repository.dart:190:13 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_repository.dart:214:15 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_repository.dart:324:9 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\data\recruiter_repository.dart:359:9 - curly_braces_in_flow_control_structures
+   info - The private field _matchScores could be 'final' - lib\features\recruiter\presentation\applications\applications_screen.dart:24:37 - prefer_final_fields
+   info - Don't invoke 'print' in production code - lib\features\recruiter\presentation\applications\applications_screen.dart:95:7 - avoid_print
+   info - Unnecessary use of 'toList' in a spread - lib\features\recruiter\presentation\applications\applications_screen.dart:598:16 - unnecessary_to_list_in_spreads
+   info - Don't invoke 'print' in production code - lib\features\recruiter\presentation\applications\resume_screening_screen.dart:60:7 - avoid_print
+   info - Don't use 'BuildContext's across async gaps - lib\features\recruiter\presentation\applications\resume_screening_screen.dart:111:9 - use_build_context_synchronously
+   info - The private field _questions could be 'final' - lib\features\recruiter\presentation\assessments\create_challenge_screen.dart:27:30 - prefer_final_fields
+   info - Don't invoke 'print' in production code - lib\features\recruiter\presentation\assessments\create_challenge_screen.dart:51:7 - avoid_print
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\recruiter\presentation\assessments\create_challenge_screen.dart:194:11 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\recruiter\presentation\assessments\create_challenge_screen.dart:214:17 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\recruiter\presentation\assessments\create_challenge_screen.dart:457:7 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\recruiter\presentation\assessments\create_challenge_screen.dart:458:7 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\recruiter\presentation\dashboard\recruiter_event_management_screen.dart:239:38 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\recruiter\presentation\dashboard\recruiter_event_management_screen.dart:256:38 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\recruiter\presentation\dashboard\recruiter_event_management_screen.dart:280:42 - use_build_context_synchronously
+   info - Use a 'SizedBox' to add whitespace to a layout - lib\features\recruiter\presentation\dashboard\recruiter_home_screen.dart:532:12 - sized_box_for_whitespace
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\presentation\events\recruiter_events_screen.dart:49:7 - curly_braces_in_flow_control_structures
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\recruiter\presentation\events\recruiter_events_screen.dart:191:17 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\recruiter\presentation\events\recruiter_events_screen.dart:197:17 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\recruiter\presentation\events\recruiter_events_screen.dart:229:17 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\recruiter\presentation\events\recruiter_events_screen.dart:235:17 - use_build_context_synchronously
+   info - The import of 'package:supabase_flutter/supabase_flutter.dart' is unnecessary because all of the used elements are also provided by the import of 'package:url_launcher/url_launcher.dart' - lib\features\recruiter\presentation\hiring\applicant_detail_screen.dart:6:8 - unnecessary_import
+warning - The declaration '_parseList' isn't referenced - lib\features\recruiter\presentation\hiring\applicant_detail_screen.dart:774:17 - unused_element
+   info - Don't invoke 'print' in production code - lib\features\recruiter\presentation\hiring\applicant_detail_screen.dart:939:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\recruiter\presentation\hiring\applicant_detail_screen.dart:941:7 - avoid_print
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\recruiter\presentation\hiring\applicant_detail_screen.dart:984:15 - deprecated_member_use
+warning - A value for optional parameter 'key' isn't ever given - lib\features\recruiter\presentation\hiring\applicant_detail_screen.dart:1072:35 - unused_element_parameter
+   info - Don't invoke 'print' in production code - lib\features\recruiter\presentation\jobs\job_management_screen.dart:46:7 - avoid_print
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\presentation\jobs\job_management_screen.dart:515:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\presentation\jobs\job_management_screen.dart:726:9 - curly_braces_in_flow_control_structures
+   info - The private field _hiringRounds could be 'final' - lib\features\recruiter\presentation\jobs\job_posting_screen.dart:30:30 - prefer_final_fields
+   info - Don't use 'BuildContext's across async gaps - lib\features\recruiter\presentation\jobs\job_posting_screen.dart:191:30 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\features\recruiter\presentation\jobs\job_posting_screen.dart:197:23 - use_build_context_synchronously
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\recruiter\presentation\jobs\job_posting_screen.dart:274:25 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\recruiter\presentation\jobs\job_posting_screen.dart:660:21 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\recruiter\presentation\jobs\job_posting_screen.dart:1026:39 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\recruiter\presentation\jobs\job_posting_screen.dart:1027:39 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\recruiter\presentation\jobs\temp_quiz_dialog.dart:146:39 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\features\recruiter\presentation\jobs\temp_quiz_dialog.dart:147:39 - deprecated_member_use
+   info - Don't invoke 'print' in production code - lib\features\recruiter\presentation\profile\recruiter_profile_screen.dart:164:7 - avoid_print
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\recruiter\presentation\profile\recruiter_profile_screen.dart:916:15 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\recruiter\presentation\profile\recruiter_profile_screen.dart:938:15 - deprecated_member_use
+   info - Don't invoke 'print' in production code - lib\features\recruiter\presentation\students\student_search_screen.dart:66:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\recruiter\presentation\students\student_search_screen.dart:122:7 - avoid_print
+   info - Unnecessary use of 'toList' in a spread - lib\features\recruiter\presentation\students\student_search_screen.dart:721:16 - unnecessary_to_list_in_spreads
+   info - The 'if' statement could be replaced by a null-aware assignment - lib\features\recruiter\presentation\widgets\recruiter_feed_widget.dart:299:7 - prefer_conditional_assignment
+   info - 'Share' is deprecated and shouldn't be used. Use SharePlus instead - lib\features\recruiter\presentation\widgets\recruiter_feed_widget.dart:459:21 - deprecated_member_use
+   info - 'share' is deprecated and shouldn't be used. Use SharePlus.instance.share() instead - lib\features\recruiter\presentation\widgets\recruiter_feed_widget.dart:459:27 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\recruiter\presentation\widgets\running_courses_sidebar_widget.dart:178:7 - curly_braces_in_flow_control_structures
+   info - Don't invoke 'print' in production code - lib\features\resume\data\resume_repository.dart:475:9 - avoid_print
+   info - Unnecessary use of 'toList' in a spread - lib\features\resume\data\resume_repository.dart:711:16 - unnecessary_to_list_in_spreads
+   info - Unnecessary use of 'toList' in a spread - lib\features\resume\data\resume_repository.dart:742:16 - unnecessary_to_list_in_spreads
+   info - Unnecessary use of 'toList' in a spread - lib\features\resume\data\resume_repository.dart:858:16 - unnecessary_to_list_in_spreads
+   info - Unnecessary use of 'toList' in a spread - lib\features\resume\data\resume_repository.dart:879:16 - unnecessary_to_list_in_spreads
+warning - The value of the local variable 'resumeData' isn't used - lib\features\resume\data\resume_repository.dart:1144:13 - unused_local_variable
+   info - The member 'state' overrides an inherited member but isn't annotated with '@override' - lib\features\resume\presentation\resume_provider.dart:24:7 - annotate_overrides
+warning - The value of the field '_repository' isn't used - lib\features\resume\presentation\resume_provider.dart:28:26 - unused_field
+   info - Don't use 'BuildContext's across async gaps - lib\features\resume\presentation\widgets\editor_left_panel.dart:120:40 - use_build_context_synchronously
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\editor_left_panel.dart:156:7 - curly_braces_in_flow_control_structures
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\resume\presentation\widgets\editor_left_panel.dart:361:11 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\editor_right_panel.dart:72:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\editor_right_panel.dart:74:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\editor_right_panel.dart:76:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\editor_right_panel.dart:78:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\editor_right_panel.dart:80:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\editor_right_panel.dart:82:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\editor_right_panel.dart:84:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\editor_right_panel.dart:86:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\editor_right_panel.dart:88:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\resume_canvas.dart:213:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\resume_canvas.dart:217:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\resume_canvas.dart:221:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\resume_canvas.dart:225:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\resume_canvas.dart:229:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\resume_canvas.dart:233:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\resume_canvas.dart:237:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\resume_canvas.dart:241:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\resume\presentation\widgets\resume_canvas.dart:245:11 - curly_braces_in_flow_control_structures
+   info - Unnecessary 'this.' qualifier - lib\features\shared\presentation\widgets\ai_assistant_widget.dart:30:8 - unnecessary_this
+warning - The operand can't be 'null', so the condition is always 'true' - lib\features\shared\presentation\widgets\ai_assistant_widget.dart:674:27 - unnecessary_null_comparison
+warning - The operand can't be 'null', so the condition is always 'true' - lib\features\shared\presentation\widgets\ai_assistant_widget.dart:729:29 - unnecessary_null_comparison
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\shared\presentation\widgets\ai_assistant_widget.dart:1426:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\shared\presentation\widgets\ai_assistant_widget.dart:1430:68 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - lib\features\shared\presentation\widgets\connection_requests_widget.dart:46:30 - use_build_context_synchronously
+   info - Don't invoke 'print' in production code - lib\features\student\data\certification_providers.dart:35:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\certification_providers.dart:99:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\certification_providers.dart:117:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\certification_repository.dart:57:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\certification_repository.dart:177:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\certification_repository.dart:258:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\certification_repository.dart:264:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\certification_repository.dart:371:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\certification_repository.dart:419:7 - avoid_print
+   info - Statements in an if should be enclosed in a block - lib\features\student\data\certification_repository.dart:424:9 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\student\data\certification_repository.dart:431:9 - curly_braces_in_flow_control_structures
+   info - Don't invoke 'print' in production code - lib\features\student\data\certification_repository.dart:454:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\certification_repository.dart:559:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\learning_repository.dart:104:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\learning_repository.dart:153:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\learning_repository.dart:198:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\learning_repository.dart:220:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\learning_repository.dart:236:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\learning_repository.dart:251:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\learning_repository.dart:745:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\learning_repository.dart:796:7 - avoid_print
+   info - Statements in an if should be enclosed in a block - lib\features\student\data\learning_repository.dart:1016:9 - curly_braces_in_flow_control_structures
+   info - Don't invoke 'print' in production code - lib\features\student\data\student_analytics_repository.dart:24:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\student_analytics_repository.dart:66:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\student_analytics_repository.dart:97:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\data\student_analytics_repository.dart:113:7 - avoid_print
+   info - 'Table.fromTextArray' is deprecated and shouldn't be used. Use TableHelper.fromTextArray() instead - lib\features\student\presentation\analytics\student_analytics_screen.dart:153:15 - deprecated_member_use
+   info - Unnecessary use of string interpolation - lib\features\student\presentation\analytics\student_analytics_screen.dart:161:25 - unnecessary_string_interpolations
+   info - 'Table.fromTextArray' is deprecated and shouldn't be used. Use TableHelper.fromTextArray() instead - lib\features\student\presentation\analytics\student_analytics_screen.dart:192:15 - deprecated_member_use
+   info - 'Table.fromTextArray' is deprecated and shouldn't be used. Use TableHelper.fromTextArray() instead - lib\features\student\presentation\analytics\student_analytics_screen.dart:235:15 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\student\presentation\analytics\student_analytics_screen.dart:1064:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\student\presentation\analytics\student_analytics_screen.dart:1244:7 - curly_braces_in_flow_control_structures
+   info - 'Table.fromTextArray' is deprecated and shouldn't be used. Use TableHelper.fromTextArray() instead - lib\features\student\presentation\analytics\student_analytics_screen_backup.dart:153:15 - deprecated_member_use
+   info - Unnecessary use of string interpolation - lib\features\student\presentation\analytics\student_analytics_screen_backup.dart:161:25 - unnecessary_string_interpolations
+   info - 'Table.fromTextArray' is deprecated and shouldn't be used. Use TableHelper.fromTextArray() instead - lib\features\student\presentation\analytics\student_analytics_screen_backup.dart:192:15 - deprecated_member_use
+   info - 'Table.fromTextArray' is deprecated and shouldn't be used. Use TableHelper.fromTextArray() instead - lib\features\student\presentation\analytics\student_analytics_screen_backup.dart:235:15 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\student\presentation\analytics\student_analytics_screen_backup.dart:769:7 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\student\presentation\analytics\student_analytics_screen_backup.dart:949:7 - curly_braces_in_flow_control_structures
+   info - 'swapAnimationDuration' is deprecated and shouldn't be used. Please use [duration] instead - lib\features\student\presentation\analytics\widgets\radar_chart.dart:58:9 - deprecated_member_use
+   info - Unnecessary use of 'toList' in a spread - lib\features\student\presentation\assessment_taking_screen.dart:428:14 - unnecessary_to_list_in_spreads
+   info - Unnecessary use of 'toList' in a spread - lib\features\student\presentation\assessment_taking_screen.dart:461:14 - unnecessary_to_list_in_spreads
+   info - The import of 'package:flutter/services.dart' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart' - lib\features\student\presentation\certificate_screen.dart:2:8 - unnecessary_import
+   info - Don't use 'BuildContext's across async gaps - lib\features\student\presentation\certificate_screen.dart:72:36 - use_build_context_synchronously
+   info - Unnecessary braces in a string interpolation - lib\features\student\presentation\certifications_screen.dart:575:25 - unnecessary_brace_in_string_interps
+warning - The value of 'refresh' should be used - lib\features\student\presentation\course_detail_screen.dart:28:11 - unused_result
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\student\presentation\custom_template_builder_screen.dart:442:11 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\student\presentation\custom_template_builder_screen.dart:459:11 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\features\student\presentation\custom_template_builder_screen.dart:476:11 - deprecated_member_use
+   info - The private field _isEnrolling could be 'final' - lib\features\student\presentation\enhanced_learning_path_screen.dart:21:8 - prefer_final_fields
+warning - The value of the field '_isEnrolling' isn't used - lib\features\student\presentation\enhanced_learning_path_screen.dart:21:8 - unused_field
+   info - Use a 'SizedBox' to add whitespace to a layout - lib\features\student\presentation\events\student_events_screen.dart:475:36 - sized_box_for_whitespace
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\student\presentation\events\student_events_screen.dart:484:67 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\student\presentation\learning_catalog_screen.dart:1159:31 - use_build_context_synchronously
+   info - Unnecessary braces in a string interpolation - lib\features\student\presentation\learning_module_screen.dart:128:18 - unnecessary_brace_in_string_interps
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\learning_path_screen.dart:47:7 - avoid_print
+warning - The value of 'refresh' should be used - lib\features\student\presentation\learning_path_screen.dart:193:11 - unused_result
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\student\presentation\learning_path_screen.dart:459:69 - deprecated_member_use
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\projects\add_edit_project_screen.dart:192:7 - avoid_print
+   info - Statements in an if should be enclosed in a block - lib\features\student\presentation\skill_dashboard_screen.dart:161:23 - curly_braces_in_flow_control_structures
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_dashboard_screen.dart:314:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_dashboard_screen.dart:323:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_dashboard_screen.dart:341:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_dashboard_screen.dart:351:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_dashboard_screen.dart:358:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_dashboard_screen.dart:360:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_dashboard_screen.dart:420:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_dashboard_screen.dart:422:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_dashboard_screen.dart:425:7 - avoid_print
+warning - The '!' will have no effect because the receiver can't be null - lib\features\student\presentation\student_dashboard_screen.dart:655:62 - unnecessary_non_null_assertion
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_profile_screen.dart:99:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_profile_screen.dart:119:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_profile_screen.dart:136:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_profile_screen.dart:152:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_profile_screen.dart:168:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_profile_screen.dart:209:7 - avoid_print
+   info - Unnecessary use of 'toList' in a spread - lib\features\student\presentation\student_profile_screen.dart:1323:14 - unnecessary_to_list_in_spreads
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_profile_screen_simple.dart:90:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_profile_screen_simple.dart:198:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_profile_screen_simple.dart:230:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\student_profile_screen_simple.dart:252:7 - avoid_print
+   info - Unnecessary use of 'toList' in a spread - lib\features\student\presentation\student_profile_screen_simple.dart:1368:22 - unnecessary_to_list_in_spreads
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\student\presentation\student_profile_screen_simple.dart:1526:23 - deprecated_member_use
+warning - The declaration '_buildLinkRow' isn't referenced - lib\features\student\presentation\student_profile_screen_simple.dart:1619:10 - unused_element
+   info - Unnecessary use of 'toList' in a spread - lib\features\student\presentation\student_profile_setup_screen.dart:826:16 - unnecessary_to_list_in_spreads
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\student\presentation\student_profile_setup_screen.dart:1121:66 - deprecated_member_use
+   info - Unnecessary braces in a string interpolation - lib\features\student\presentation\widgets\certification_card.dart:192:41 - unnecessary_brace_in_string_interps
+   info - Unnecessary braces in a string interpolation - lib\features\student\presentation\widgets\certification_card.dart:280:38 - unnecessary_brace_in_string_interps
+   info - Unnecessary braces in a string interpolation - lib\features\student\presentation\widgets\certification_card.dart:341:27 - unnecessary_brace_in_string_interps
+   info - The private field _selectedImages could be 'final' - lib\features\student\presentation\widgets\create_post_dialog.dart:19:15 - prefer_final_fields
+warning - The value of the local variable 'crossAxisCount' isn't used - lib\features\student\presentation\widgets\dashboard_stats_panel.dart:83:13 - unused_local_variable
+   info - Don't invoke 'print' in production code - lib\features\student\presentation\widgets\learning_content_widgets.dart:63:7 - avoid_print
+   info - 'Share' is deprecated and shouldn't be used. Use SharePlus instead - lib\features\student\presentation\widgets\social_feed_panel.dart:764:21 - deprecated_member_use
+   info - 'share' is deprecated and shouldn't be used. Use SharePlus.instance.share() instead - lib\features\student\presentation\widgets\social_feed_panel.dart:764:27 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\student\presentation\widgets\student_sidebar.dart:450:53 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\student\presentation\widgets\student_sidebar.dart:508:55 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\student\presentation\widgets\student_sidebar.dart:571:65 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\student\presentation\widgets\student_sidebar.dart:579:69 - deprecated_member_use
+   info - Don't invoke 'print' in production code - lib\main.dart:36:5 - avoid_print
+   info - Don't invoke 'print' in production code - test\job_round_test.dart:24:5 - avoid_print
+   info - Don't invoke 'print' in production code - test\job_round_test.dart:25:5 - avoid_print
+   info - Don't invoke 'print' in production code - test\job_round_test.dart:26:5 - avoid_print
+   info - Don't invoke 'print' in production code - test\job_round_test.dart:28:5 - avoid_print
+   info - Don't invoke 'print' in production code - test\job_round_test.dart:29:5 - avoid_print
+   info - Don't invoke 'print' in production code - test\job_round_test.dart:30:5 - avoid_print
+

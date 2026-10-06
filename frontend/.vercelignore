@@ -1,0 +1,12 @@
+# Exclude heavy build folders
+build/
+.dart_tool/
+.git/
+.gradle/
+.idea/
+.vscode/
+
+# Only include the web build in the final output as per vercel.json
+# (Vercel will still see build/web because it's listed in outputDirectory)
+# Note: vercel --prod will upload the source. If we ignore 'build/', 
+# it won't find the output directory if we are deploying a pre-built app.

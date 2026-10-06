@@ -1,0 +1,2 @@
+-- Debug: Check if any sidebar item corresponds to index 20 (Analytics)
+-- This is a manual check of the sidebar file content below.

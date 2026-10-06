@@ -1,0 +1,9 @@
+{
+  "deno.enablePaths": [
+    "backend/supabase/functions"
+  ],
+  "typescript.validate.enable": true,
+  "java.import.gradle.enabled": false,
+  "java.autobuild.enabled": false,
+  "java.import.maven.enabled": false
+}

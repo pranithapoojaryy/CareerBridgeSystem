@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\CareerBridge\frontend\lib\features\college\presentation\dashboard\college_dashboard_screen.dart
+C:\Users\ASUS\Desktop\CareerBridge\frontend\lib\features\recruiter\presentation\applications\applications_screen.dart
+C:\Users\ASUS\Desktop\CareerBridge\frontend\lib\features\recruiter\presentation\dashboard\recruiter_dashboard_screen.dart
+C:\Users\ASUS\Desktop\CareerBridge\frontend\lib\features\student\presentation\student_dashboard_screen.dart
+C:\Users\ASUS\Desktop\CareerBridge\frontend\lib\features\student\presentation\student_profile_screen.dart

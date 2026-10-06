@@ -1,0 +1,24 @@
+{
+  "name": "CareerBridge-flutter-web",
+  "version": "1.0.0",
+  "description": "CareerBridge - Student-College Management Platform",
+  "scripts": {
+    "build": "chmod +x build.sh && ./build.sh",
+    "dev": "cd frontend && flutter run -d web-server --web-port 3000",
+    "start": "cd frontend && flutter run -d web-server --web-port 3000"
+  },
+  "keywords": [
+    "flutter",
+    "web",
+    "student-management",
+    "college-platform",
+    "supabase"
+  ],
+  "author": "CareerBridge Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
